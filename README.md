@@ -30,7 +30,7 @@ Interface intuitiva e fácil de usar, projetada para manter a segurança e discr
 
 ---
 
-## Implementações furutas
+## Implementações futuras
 
 ### **Atalho**
 Um botão de atalho para acionar a função de emergência de qualquer lugar no dispositivo.
