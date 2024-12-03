@@ -27,3 +27,10 @@ Os dados dos contatos e arquivos do cofre são armazenados localmente com cripto
 
 ### **Acessibilidade e Privacidade**
 Interface intuitiva e fácil de usar, projetada para manter a segurança e discrição da usuária.
+
+---
+
+## Implementações furutas
+
+### **Atalho**
+Um botão de atalho para acionar a função de emergência de qualquer lugar no dispositivo.
